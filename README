@@ -21,6 +21,16 @@ Please see the following documents for additional info:
 -------------------------------------------------------------------
 
 
+
+autoconf is often used together with the following software systems:
+
+    GNU M4 is a prerequisite for Autoconf.
+    Perl is a prerequisite for Autoconf.
+    GNU Automake uses Autoconf.
+    GNU Libtool also uses Autoconf.
+
+
+
 Updated Install Instructions:
 
 autoreconf -fi
