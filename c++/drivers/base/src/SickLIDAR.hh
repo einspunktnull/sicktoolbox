@@ -35,6 +35,7 @@
 #include <string>
 #include <iomanip>
 #include <iostream>
+#include <unistd.h>
 #include <fcntl.h>
 #include <pthread.h>
 #include <arpa/inet.h>
