@@ -263,10 +263,10 @@ void setConfig() {
   //if(ifstream(config_path.c_str()) != NULL) {
     sick_config_file = ConfigFile(config_path);
   //}
-  else {
-    cerr << "Invalid filename!" << endl;
-    return;
-  }
+  //else {
+  //  cerr << "Invalid filename!" << endl;
+  //  return;
+  //}
 
   /* Use the ConfigFile class to extract the various parameters for
    * the sick configuration.
