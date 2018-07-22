@@ -19,3 +19,8 @@ Please see the following documents for additional info:
   NEWS    - Latest news regarding the project
 
 -------------------------------------------------------------------
+
+
+Updated Install Instructions:
+
+autoreconf -fi
