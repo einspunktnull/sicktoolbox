@@ -24,3 +24,5 @@ Please see the following documents for additional info:
 Updated Install Instructions:
 
 autoreconf -fi
+./configure
+
