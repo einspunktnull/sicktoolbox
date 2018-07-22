@@ -9,6 +9,8 @@ Makefile
 libtool
 c++/drivers/base/src/SickConfig.hh
 c++/drivers/base/src/stamp-h1
+*.o
+*.lo
 *.Po
 *.Plo
 config.log

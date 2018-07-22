@@ -25,4 +25,5 @@ Updated Install Instructions:
 
 autoreconf -fi
 ./configure
+make
 
