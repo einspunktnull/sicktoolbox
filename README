@@ -26,4 +26,5 @@ Updated Install Instructions:
 autoreconf -fi
 ./configure
 make
+sudo make install
 
