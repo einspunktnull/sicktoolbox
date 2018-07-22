@@ -5,3 +5,11 @@ configure
 aclocal.m4
 autom4te.cache
 *~
+Makefile
+libtool
+c++/drivers/base/src/SickConfig.hh
+c++/drivers/base/src/stamp-h1
+*.Po
+*.Plo
+config.log
+config.status
